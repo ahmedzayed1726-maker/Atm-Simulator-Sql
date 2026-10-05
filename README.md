@@ -88,6 +88,3 @@ LIMIT 5;
 *   **Connectivity Layer:** JDBC (Java Database Connectivity)
 
 ---
-
-## 📄 License
-Distributed under the MIT License. See `LICENSE` for details.
